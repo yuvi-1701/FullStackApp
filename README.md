@@ -25,12 +25,14 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd ~/backend
+  cd FullStackApp/backend
 ```
 
 Install dependencies
 
 ```bash
+  py -m venv myenv  ->(optional)
+  ./myenv/Scripts/Activate.ps1   ->(For windows machine to activate virtual environment in powershell)
   pip install -r requirements.txt
 ```
 
@@ -52,7 +54,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd ~/frontend/my-app
+  cd FullStackApp/frontend/my-app
 ```
 
 Install dependencies
