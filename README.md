@@ -39,6 +39,7 @@ Install dependencies
 Start the server
 
 ```bash
+  (after installing all dependencies run below cmd. It will run fastapi server on 8000 port by default to open it on different port add {--port portnumber} at the back of the below cmd.)
   uvicorn myapp.app:app --reload 
 ```
 
