@@ -74,7 +74,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run
+  npm run start
 ```
 
 ## Authors
