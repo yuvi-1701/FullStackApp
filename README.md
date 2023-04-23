@@ -43,6 +43,11 @@ Start the server
   uvicorn myapp.app:app --reload 
 ```
 
+Now What?
+
+```bash
+  Now you can click on the link provided by fast api like (http://127.0.0.1:8000) and then to check it on the swagger ui you can hit http://127.0.0.1:8000/docs. Here you can test our endpoints as shown in the screenshot above. As Backend is now running you can follow below steps to run frontend as well```
+
 
 ## Run Frontend React Locally
 
