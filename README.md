@@ -55,7 +55,8 @@ Now What?
 Clone the project
 
 ```bash
-  git clone https://github.com/yuvi-1701/FullStackApp.git
+  (Optional if already done then dont do it.)
+  git clone https://github.com/yuvi-1701/FullStackApp.git 
 ```
 
 Go to the project directory
