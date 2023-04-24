@@ -1,7 +1,7 @@
 
 # Waist Size Measurer
 
-Waist Size Measurer is a application where you can input your height, weight & age it will give you the value of your waist size. You can also add your waist size if that is not present in the database.
+Waist Size Measurer is an application where you can input your height, weight & age it will give you the value of your waist size. You can also add your waist size if that is not present in the database.
 Start the backend uvicorn server first then start the react server.
 
 
