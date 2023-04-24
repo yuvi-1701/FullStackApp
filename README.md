@@ -9,7 +9,7 @@ Start the backend uvicorn server first then start the react server.
 
 ## Screenshots
 
-![Fastapi Screenshot](https://drive.google.com/file/d/1A_Wr8zeWjkQLrSesYCHamKQVlDjMJx5i/view?usp=sharing)
+![Fastapi Api's Screenshot](https://drive.google.com/file/d/1A_Wr8zeWjkQLrSesYCHamKQVlDjMJx5i/view?usp=sharing)
 
 https://drive.google.com/file/d/1A_Wr8zeWjkQLrSesYCHamKQVlDjMJx5i/view?usp=sharing
 
