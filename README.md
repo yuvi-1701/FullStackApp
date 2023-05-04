@@ -31,8 +31,10 @@ Go to the project directory
 Install dependencies
 
 ```bash
+  cd .. 
   py -m venv myenv  ->(optional)
   ./myenv/Scripts/Activate.ps1   ->(For windows machine to activate virtual environment in powershell)
+  cd backend
   pip install -r requirements.txt
 ```
 
